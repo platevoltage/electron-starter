@@ -27,10 +27,10 @@
       "output": "out"
     },
     "win": {
-      "icon": "./stella.png"
+      "icon": "./icon.png"
     },
     "mac": {
-      "icon": "./stella.icns"
+      "icon": "./icon.icns"
     }
   }
 }
